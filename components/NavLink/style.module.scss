@@ -1,0 +1,10 @@
+.link {
+  color: white;
+  text-decoration: none;
+  font-size: 21px;
+  line-height: 1.3;
+}
+
+.link:not(:last-child) {
+  margin-right: 25px;
+}
